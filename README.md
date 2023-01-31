@@ -8,4 +8,5 @@ https://www.brain.fm/ (Frequency Modifier, modifes the brain wave frequency leve
 https://www.wakingup.com/
 https://www.zensleep.ai/
 https://www.thefabulous.co/
+https://obsidian.md/ (Notes/Thought Process)
 ```
