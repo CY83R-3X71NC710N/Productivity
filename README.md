@@ -10,6 +10,6 @@ https://www.zensleep.ai/
 https://www.thefabulous.co/
 https://obsidian.md/ (Notes/Thought Process)
 https://github.com/denolehov/obsidian-git
-https://justgetflux.com/ (Dark Room Mode)
+https://justgetflux.com/ (Grayscale, Emerald City)
 https://darkreader.org/
 ```
