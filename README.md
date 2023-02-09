@@ -15,4 +15,5 @@ https://github.com/denolehov/obsidian-git
 https://justgetflux.com/ (Grayscale, Emerald City)
 https://darkreader.org/
 https://chrome.google.com/webstore/detail/habitica-pomodoro-sitekee/iaanigfbldakklgdfcnbjonbehpbpecl?hl=en
+https://www.caveday.org/ (Zoom link)
 ```
